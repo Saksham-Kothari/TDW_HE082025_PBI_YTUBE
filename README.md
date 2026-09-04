@@ -15,11 +15,11 @@ This repository contains my internship project with **TopDataWorks**, where I bu
 - 📊 **Youtube Data Visualization Task 5.pbix** – Final enhanced dashboard with advanced KPIs & visuals  
 - 📸 **Dashboard Screenshots/** – Contains all dashboard screenshots for each task  
 
-    ├── first dashboard.PNG  
-    ├── second dashboard.PNG  
-    ├── third dashboard.PNG  
-    ├── fourth dashboard.PNG  
-    ├── fifth dashboard.PNG    
+    ├── 1st dashboard.PNG  
+    ├── 2nd dashboard.PNG  
+    ├── 3rd dashboard.PNG  
+    ├── 4th dashboard.PNG  
+    ├── 5th dashboard.PNG    
 
 ---
 
